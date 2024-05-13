@@ -35,7 +35,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Java8CurrencyFormatter {
+public class Java8_CurrencyFormatter {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
