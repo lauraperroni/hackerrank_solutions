@@ -1,11 +1,6 @@
 # Hackerrank Solutions
 
 This is a repository with my hackerrank exercise solutions, its a work in progress :)
-| Version |
---
-|[Java 8](#java-8-----introduction)|
-
-
 
 
 ## Java 8  -  Introduction 
