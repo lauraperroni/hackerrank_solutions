@@ -2,7 +2,7 @@ package Prepare.Java.Introduction;
 
 import java.util.Scanner;
 
-public class Java8_StdinAndStdout1 {
+public class Java8_JavaStdinAndStdout1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();

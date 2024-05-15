@@ -2,7 +2,7 @@ package Prepare.Java.Introduction;
 
 import java.util.Scanner;
 
-public class Java8_JavaDatatpes {
+public class Java8_JavaDatatypes {
     public static void main(String[] argh) {
 
         Scanner sc = new Scanner(System.in);
